@@ -1,1 +1,1 @@
-"# my-lodash" 
+# My-lodash
